@@ -59,7 +59,7 @@ sift-ransac-object-detection/
         └── scene_repeated_instances.png
 ```
 
-> **Note:** the repo currently contains just the notebook. `requirements.txt`, `LICENSE`, and the `assets/` images below still need to be added — see the Installation and Usage sections for what each should contain.
+> **Status:** README and example images are live. Still to add: `requirements.txt`, `LICENSE`, and cleaning the Colab-specific data-loading cell out of the notebook (see Usage below).
 
 ## Data
 
